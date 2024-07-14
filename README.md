@@ -20,3 +20,5 @@ git commit -m "Add Unity project with Git LFS tracking"
 
 5-)# Push to GitHub (assuming 'origin' is your remote repository)
 git push origin main
+
+işe yaramıyor güncelle

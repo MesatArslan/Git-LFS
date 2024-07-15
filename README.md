@@ -89,3 +89,7 @@ git lfs track "*.fbx"
 and also put the gitignore file in the Unity project file
 
 8-) Do commit and push origin
+
+
+Thanks ORKUN HACILAR this is the link;
+https://www.youtube.com/watch?v=AQI7RDWONmo

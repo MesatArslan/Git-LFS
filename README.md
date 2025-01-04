@@ -7,7 +7,7 @@ You must add the following codes to the terminal of the file in order:
 
 1-) Open secret files (Shift+Command+point)
 
-2-) Add .gitignore if file doesn't have (When you creating a repository don2t forget to add gitignore)
+2-) Add .gitignore if file doesn't have (When you creating a repository don2t forget to add gitignore)(gitignore kısmı "Unity" olucak)
 
 3-) In the file that has git, right click and find the .gitignore file path
 

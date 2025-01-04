@@ -2,6 +2,7 @@
 How can I add files over 100 MB?
 (100mb'tın üstündeki dosyaları bu kodları girerek ekleyebilirsin)
 
+First, you should create a repository on GitHub. After that, add the repository to your desktop. Once you've done this, you can follow the the steps below
 You must add the following codes to the terminal of the file in order:
 
 1-) Open secret files (Shift+Command+point)

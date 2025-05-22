@@ -1,4 +1,6 @@
 # Git-LFS
+Firstly dont forget to install homebrew and git lfs
+
 How can I add files over 100 MB?
 (100mb'tın üstündeki dosyaları bu kodları girerek ekleyebilirsin)
 
